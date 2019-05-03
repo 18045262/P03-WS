@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleApps</string>
+    <string name="enter">Enter Something</string>
+    <string name="show">Displat what the user enter</string>
+    <string name="off">Disable</string>
+    <string name="on">Enable</string>
+</resources>
